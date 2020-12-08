@@ -1,0 +1,32 @@
+{
+  "name": "@telemetry-js/match-metric-names",
+  "version": "0.0.3",
+  "description": "Filter available metric names by glob-like patterns",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "hallmark": "^3.1.0",
+    "standard": "^14.3.4",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "micromatch": "^3.1.10"
+  },
+  "repository": "telemetry-js/match-metric-names",
+  "bugs": "https://github.com/telemetry-js/match-metric-names/issues",
+  "homepage": "https://github.com/telemetry-js/match-metric-names",
+  "keywords": [
+    "metrics",
+    "measurements",
+    "telemetry"
+  ],
+  "engines": {
+    "node": ">=6"
+  }
+}
