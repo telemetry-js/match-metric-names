@@ -1,6 +1,6 @@
 {
   "name": "@telemetry-js/match-metric-names",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Filter available metric names by glob-like patterns",
   "license": "MIT",
   "author": "Vincent Weevers",
