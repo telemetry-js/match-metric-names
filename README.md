@@ -3,7 +3,7 @@
 > **Filter available metric names by glob-like patterns.**  
 > A utility for [`telemetry`](https://github.com/telemetry-js/telemetry) collector plugins.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/match-metric-names.svg)](https://www.npmjs.org/package/@telemetry-js/match-metric-names)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/match-metric-names.svg)](https://www.npmjs.org/package/@telemetry-js/match-metric-names)
 [![node](https://img.shields.io/node/v/@telemetry-js/match-metric-names.svg)](https://www.npmjs.org/package/@telemetry-js/match-metric-names)
 [![Test](https://github.com/telemetry-js/match-metric-names/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/match-metric-names/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -38,7 +38,7 @@ npm install @telemetry-js/match-metric-names
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
